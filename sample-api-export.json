@@ -1,0 +1,84 @@
+{
+  "categories" : {
+    "Australia" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Bahamas" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Cambodia" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Denmark" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Ecuador" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Fiji" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Gabon" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Iceland" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Jamaica" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Kazakhstan" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Laos" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Macedonia" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Namibia" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Oman" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+    "Pakistan" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "prepaid"
+    },
+    "Qatar" : {
+      "planID" : "100",
+      "firsttime" : [ "yes", "no" ],
+      "planType" : "paymonthly"
+    },
+  }
+}
