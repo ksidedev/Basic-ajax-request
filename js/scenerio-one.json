@@ -1,52 +1,42 @@
 {
     "countries": [{
         "name": "Australia",
-        "plan": "prepaid",
         "code": 11100
     },
     {
         "name": "Bahamas",
-        "plan": "paymonthly",
         "code": 11100
     },
     {
         "name": "Cambodia",
-        "plan": "prepaid",
         "code": 11100
     }, 
     {
         "name": "Denmark",
-        "plan": "paymonthly",
         "code": 11100
     },
     {
         "name": "Ecuador",
-        "plan": "prepaid",
         "code": 11100
     },
     {
         "name": "Fiji",
-        "plan": "paymonthly",
         "code": 11100
     }, 
     {
         "name": "Gabon",
-        "plan": "prepaid",
         "code": 11100
     }, 
     {
         "name": "Iceland",
-        "plan": "paymonthly",
         "code": 11100
     }, 
     {
         "name": "Jamaica",
-        "plan": "prepaid",
         "code": 11100
     },
     {
         "name": "Kazakhstan",
-        "plan": "prepaid",
         "code": 11100
     }]
 
